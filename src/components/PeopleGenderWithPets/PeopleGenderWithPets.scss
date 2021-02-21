@@ -1,0 +1,14 @@
+@import '../../AppstyleVariables.scss';
+
+.mediback-test-app {
+    .gender-pet-section {
+        .people-gender {
+            font-weight: bold;
+            margin-top: $app-standard-margin;
+            margin-bottom: $app-standard-margin;
+        }
+        .pet-name {
+            color:blue
+        }
+    }
+}
